@@ -1,0 +1,18 @@
+{
+  "name": "Replay",
+  "url": "https://tryreplay.online/?utm_source=indiegoodies&utm_medium=deals&utm_campaign=bf2026",
+  "description": "Bot-free call recorder for Mac: records Zoom, Google Meet, Teams, Slack, WhatsApp, Telegram and Signal calls on your Mac, no bot joins",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off one-time purchase with code REPLAYBF50",
+  "code": "REPLAYBF50",
+  "pricing": "one-time",
+  "price": {
+    "regular": 10,
+    "sale": 5,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-31"
+}
